@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=christinayiebiyo&color=ff69b4)
-### Hi there 👋
-I'm Christina Yiebiyo!
+### Hi there, I'm Christina Yiebiyo 👋
+
 <!--
 **christinayiebiyo/christinayiebiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
